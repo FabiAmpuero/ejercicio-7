@@ -5,20 +5,16 @@ Ejercicio 7
 *Inicio: Sonrisa de monitos*
 
 ## Ingreso de datos
-- sonrisa_mono_a
-- sonrisa_mono_b
+- aSmile
+- bSmile
 - problema
 
 ## Proceso
-- Obtener valor sonrisa_mono_a
-- Obtener valor sonrisa_mono_b
-- Si sonrisa_mono_a y sonrisa_mono_b es verdadero
+- Obtener valor aSmile
+- Obtener valor bSmile
+- Si aSmile y bSmile son iguales entonces
     - Mostrar 1 //Problema
 - Si no 
-    Si weekday es verdadero
-        Mostrar 0 //No dormimos
-            Si no
-                Mostrar 1 //Dormimos
-            Fin si    
+    - Mostrar 0 //No estamos en problemas   
     
 *Fin*
