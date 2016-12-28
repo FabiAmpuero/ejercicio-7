@@ -3,10 +3,10 @@ function monoA(){
     var checkA = document.getElementById("mono_a");
     
     if(checkA.checked){
-        img.innerHTML = '<img src="feliz.gif">';
+        img.innerHTML = '<img src="img/feliz.gif">';
     }
     else {
-        img.innerHTML = '<img src="triste.gif-c200">';
+        img.innerHTML = '<img src="img/triste.gif-c200">';
     }
 }
 
@@ -15,10 +15,10 @@ function monoB(){
     var checkB = document.getElementById("mono_b");
     
     if(checkB.checked){
-        img.innerHTML = '<img src="feliz.gif">';
+        img.innerHTML = '<img src="img/feliz.gif">';
     }
     else {
-        img.innerHTML = '<img src="triste.gif-c200">';
+        img.innerHTML = '<img src="img/triste.gif-c200">';
     }
 }
 
